@@ -121,5 +121,5 @@ Redux Thunk asynchronous operations display loading indicators to improve user e
 
 ---
 
-![screenshort]
+![screenshot]
 (https://github.com/SaiyamDoshi7/Redux-Builder/blob/4d21d0f1a8f79485d975cc8822d6490b6a72f887/Screenshot%202026-03-18%20003916.png)
